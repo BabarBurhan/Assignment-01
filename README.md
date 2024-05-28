@@ -1,2 +1,2 @@
 # Assignment-01
-This is my Second Git repository.
+This is my 1st Assignment.
